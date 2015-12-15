@@ -1,0 +1,6 @@
+Contents:
+1.Data Structures used in Algorithm
+2.Operating System
+3.DBMS
+4.Networking
+5.Hacking
