@@ -1,1 +1,1 @@
-This repository is all about the material related to computer science
+This repository is all about the study material related to computer science
